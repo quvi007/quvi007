@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Full Stack Development, teaching DSA, Bioinformatics and Machine Learning Research
 - 🤔 I’m looking for help with ... Machine Learning
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... 1805007@ugrad.cse.buet.ac.bd, [Website](https://quvi007.github.io)
+- 📫 How to reach me: ... [E-mail](mailto:1805007@ugrad.cse.buet.ac.bd), [Website](https://quvi007.github.io)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I hate CS
