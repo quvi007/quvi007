@@ -1,7 +1,5 @@
 ### Here is What I'm Working On! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Competitive Programming, Data Structures and Algorithms, Full Stack Development
 - 🌱 I’m currently learning ... Building Compilers, Working with Microcontrollers and Microprocessors, Computer Architecture, Machine Learning, Deep Learning
 - 👯 I’m looking to collaborate on ... Full Stack Development, teaching DSA, Bioinformatics and Machine Learning Research
